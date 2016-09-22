@@ -3,7 +3,7 @@ package miw;
 public class C11 {
 	
 	public String m1(){
-		return "m1";
+		return "method name is m1";
 	}
 	
 	public String m2(){
